@@ -7,10 +7,10 @@
 * Solusi dari setiap soal harus bisa di *compile* dan *run* untuk validasi, dipersilahkan menggunakan direktori terpisah atau pendekatan lain.
 * Informasikan repo github melalui email
 
-[Problem 1: Sorting ](https://github.com/galihrivanto/recruitment/tree/master/sorting)
+[Problem 1: Sorting ](https://github.com/Deni06/screening_test/tree/master/sorting)
 
-[Problem 2: Queue](https://github.com/galihrivanto/recruitment/tree/master/queue)
+[Problem 2: Queue](https://github.com/Deni06/screening_test/tree/master/queue)
 
-[Problem 3: Folder Compare](https://github.com/galihrivanto/recruitment/tree/master/compare)
+[Problem 3: Folder Compare](https://github.com/Deni06/screening_test/tree/master/compare)
 
-[Problem 4: Concurrency](https://github.com/galihrivanto/recruitment/tree/master/concurrency)
+[Problem 4: Concurrency](https://github.com/Deni06/screening_test/tree/master/concurrency)
